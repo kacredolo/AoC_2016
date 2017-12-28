@@ -1,0 +1,4 @@
+﻿  Challenge9.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge9\challenge9.cpp(121): warning C4018: '<=': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge9\challenge9.cpp(135): warning C4018: '<': signed/unsigned mismatch
+  Challenge9.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge9.exe
