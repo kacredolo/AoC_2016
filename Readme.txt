@@ -4,7 +4,7 @@ https://adventofcode.com/2016/
 Solutions by Kai Acredolo
 Done in C++
 
-Each day/challenge is it's own project
+Each day/challenge is it's own project, contained in a .cpp file
 The challenge is written at the top of the file
 
 
