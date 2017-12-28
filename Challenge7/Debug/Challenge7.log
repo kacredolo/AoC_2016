@@ -1,5 +1,0 @@
-﻿  Challenge7.cpp
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge7\challenge7.cpp(35): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge7\challenge7.cpp(37): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge7\challenge7.cpp(50): warning C4018: '<': signed/unsigned mismatch
-  Challenge7.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge7.exe

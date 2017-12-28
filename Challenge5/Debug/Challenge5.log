@@ -1,7 +1,0 @@
-﻿  md5.cpp
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge5\md5.cpp(58): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
-  c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge5\md5.cpp(58): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
-  Challenge5.cpp
-  Generating Code...
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge5\md5.cpp(355): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
-  Challenge5.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge5.exe

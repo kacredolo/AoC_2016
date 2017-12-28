@@ -1,8 +1,0 @@
-﻿  Challenge8.cpp
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(92): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(93): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(118): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(122): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(128): warning C4018: '<': signed/unsigned mismatch
-c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge8\challenge8.cpp(129): warning C4018: '<': signed/unsigned mismatch
-  Challenge8.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge8.exe
