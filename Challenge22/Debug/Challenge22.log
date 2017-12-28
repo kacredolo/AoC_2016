@@ -1,0 +1,13 @@
+﻿  Challenge22.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(47): warning C4018: '<=': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(49): warning C4018: '<=': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge22\challenge22.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Challenge22.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge22.exe

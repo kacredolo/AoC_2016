@@ -1,0 +1,4 @@
+﻿  Challenge17.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge17\challenge17.cpp(68): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge17\challenge17.cpp(124): warning C4018: '>': signed/unsigned mismatch
+  Challenge17.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge17.exe

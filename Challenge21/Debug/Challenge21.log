@@ -1,0 +1,4 @@
+﻿  Challenge21.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge21\challenge21.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge21\challenge21.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  Challenge21.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge21.exe

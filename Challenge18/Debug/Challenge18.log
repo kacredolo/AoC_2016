@@ -1,0 +1,7 @@
+﻿  Challenge18.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge18\challenge18.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge18\challenge18.cpp(97): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge18\challenge18.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge18\challenge18.cpp(114): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge18\challenge18.cpp(115): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Challenge18.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge18.exe

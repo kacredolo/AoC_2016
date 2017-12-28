@@ -1,0 +1,8 @@
+﻿  Challenge4.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode\challenge4\challenge4.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  Challenge4.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode\Debug\Challenge4.exe

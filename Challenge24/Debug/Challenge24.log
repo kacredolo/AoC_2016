@@ -1,0 +1,10 @@
+﻿  Challenge24.cpp
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(34): warning C4018: '>=': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\xteln\documents\visual studio 2015\projects\adventofcode2016\challenge24\challenge24.cpp(123): warning C4715: 'FindPathFromNodeToNode': not all control paths return a value
+  Challenge24.vcxproj -> C:\Users\xteln\Documents\Visual Studio 2015\Projects\AdventOfCode2016\Debug\Challenge24.exe
